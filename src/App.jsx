@@ -1,7 +1,7 @@
 import { Routes, Route, Link } from "react-router-dom";
-import Home from "./JS/pages/Home.jsx";
-import CreateTask from "./JS/pages/CreateTask.jsx";
-import EditTask from "/JS./pages/EditTask.jsx";
+import Home from "./JS/Pages/Home.jsx";
+import CreateTask from "./JS/Pages/Createtask.jsx";
+import EditTask from "/JS./Pages/Edittask.jsx";
 
 
 export default function App() {
