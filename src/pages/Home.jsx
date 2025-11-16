@@ -1,6 +1,7 @@
 import useTasks from "../hooks/useTasks";
 import TaskTable from "../components/TaskTable";
 
+
 export default function Home() {
   const { tasks, setTasks } = useTasks();
 
